@@ -1,17 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ARG : AMERICA TV FHD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66641.ts
-#EXTINF:-1,CH : TVN HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66638.ts
 #EXTINF:-1,CINE ACCION
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87461.ts
-#EXTINF:-1,CINE ACCION SAGA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/338203.ts
-#EXTINF:-1,CINE MARVEL *
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87465.ts
-#EXTINF:-1,CINE SAGA MAGIA*
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/332004.ts
 #EXTINF:-1,CO : CABLENOTICIAS
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166708.ts
 #EXTINF:-1,CO : CANAL 1
@@ -200,37 +189,6 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66626.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66628.ts
 #EXTINF:-1,EC : TVC TELEVICENTRO
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66621.ts
-
-#EXTINF:-1,ESA : EL CAMINO TV CANAL 29
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/122644.ts
-#EXTINF:-1,ESA : TABER TV CANAL 17
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/122643.ts
-#EXTINF:-1,ESA : TELEVISION LESGILATIVA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/167320.ts
-#EXTINF:-1,ESA : TIGO SPORTS  HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/169602.ts
-#EXTINF:-1,ESA : WOW TV*
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/124979.ts
-#EXTINF:-1,España : #VAMOS 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129227.ts
-#EXTINF:-1,España : 24H HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139264.ts
-#EXTINF:-1,España : ANTENA 3
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139265.ts
-#EXTINF:-1,España : AXN
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129354.ts
-#EXTINF:-1,España : BE MAD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/63193.ts
-#EXTINF:-1,ESPAÑA : CALLE 13
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129355.ts
-#EXTINF:-1,ESPAÑA : CANAL COCINA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129356.ts
-#EXTINF:-1,España : DISCOVERY CHANNEL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/333552.ts
-#EXTINF:-1,España : DISNEY CHANNEL HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139266.ts
-#EXTINF:-1,España : DISNEY JUNIOR HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139267.ts
 #EXTINF:-1,MUSICA : BANDAMAX
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85298.ts
 #EXTINF:-1,MUSICA : LATIDO MUSIC
@@ -303,52 +261,6 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/52492.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/288425.ts
 #EXTINF:-1,MX: BITME
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/304621.ts
-#EXTINF:-1,NIC : CANAL 10
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/140238.ts
-#EXTINF:-1,NIC : CANAL 12
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/114894.ts
-#EXTINF:-1,NIC : CANAL 13 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/71101.ts
-#EXTINF:-1,NIC : CANAL 4
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/126257.ts
-#EXTINF:-1,NIC : CANAL 6
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/165345.ts
-#EXTINF:-1,NOTICIA : BBC NEWS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/288405.ts
-#EXTINF:-1,NOTICIAS : ADN40
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103348.ts
-#EXTINF:-1,NOTICIAS : BLOOMBERG TV (USA)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103351.ts
-#EXTINF:-1,NOTICIAS : CBS NEWS (USA)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103356.ts
-#EXTINF:-1,NOTICIAS : CGTN ESPAÑOL (CHINA)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103355.ts
-#EXTINF:-1,NOTICIAS : CNN (USA)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103354.ts
-#EXTINF:-1,NOTICIAS : CNN (USA) 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103456.ts
-#EXTINF:-1,NOTICIAS : CNN EN ESPAÑOL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
-#EXTINF:-1,NOTICIAS : CNN Internacional
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139372.ts
-#EXTINF:-1,NOTICIAS : CNNE
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139373.ts
-#EXTINF:-1,NOTICIAS : DW
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299934.ts
-#EXTINF:-1,NOTICIAS : FOX NEWS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139374.ts
-#EXTINF:-1,NOTICIAS : FRANCE 24 EN ESPAÑOL FHD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/282802.ts
-#EXTINF:-1,NOTICIAS : FRANCE 24 EN ESPAÑOL HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299986.ts
-#EXTINF:-1,NOTICIAS : NBC NEWS (USA)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103357.ts
-#EXTINF:-1,NOTICIAS : NEWSMAX
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/103359.ts
-#EXTINF:-1,NOTICIAS : NTN24
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139377.ts
-#EXTINF:-1,NOTICIAS: RT EN ESPAÑOL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/151602.ts
 #EXTINF:-1,NOVELA : AZCORAZON 
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/264914.ts
 #EXTINF:-1,NOVELA : KANAL D 
