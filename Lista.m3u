@@ -1,2 +1,372 @@
-#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="Copa Amer | Ecuador Vs. Jamaica (e)(ECUA 720)" tvg-logo="https://i.postimg.cc/1X1sqj2H/Proyectox-copa-Am-rica.png" group-title="EVENTOS PPV",Copa Amer | Ecuador Vs. Jamaica (e)(ECUA 720)
-http://zeuspro.xyz:8080/campo2021/q7YQyJss8c/412371
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="MUNDIAL",TELEAMAZONAS 2
+hhtp://redima.pro:8880/live/FLOFICO/FLOFICO/682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECUAVISA 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 1
+http://redima.pro:8880/live/FLOFICO/FLOFICO/451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
+http://redima.pro:8880/live/FLOFICO/FLOFICO/453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",ECUADOR TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR",ECUAVISA INTERNACIONAL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR",ECUAVISA INTERNACIONAL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTU" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png" group-title="ECUADOR",RTU
+http://redima.pro:8880/live/FLOFICO/FLOFICO/459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTU" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png" group-title="ECUADOR",RTU
+http://redima.pro:8880/live/FLOFICO/FLOFICO/460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC
+http://redima.pro:8880/live/FLOFICO/FLOFICO/461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMA TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR",GAMA TV 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR
+http://redima.pro:8880/live/FLOFICO/FLOFICO/465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR
+http://redima.pro:8880/live/FLOFICO/FLOFICO/466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV" tvg-logo="" group-title="ECUADOR",ONDA TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/554.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports.png" group-title="Colombia Deportes",WIN SPORTS
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/23219
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-HD.png" group-title="Colombia Deportes",WIN SPORTS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/857
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS   " tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png" group-title="Colombia Deportes",WIN SPORTS MAS   
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/34695
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas.png" group-title="Colombia Deportes",WIN SPORTS MAS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/492
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - ABN HD " tvg-logo="http://www.iptbest.xyz/logo/ABN_Colombia.png" group-title="Colombia",COLOMBIA - ABN HD 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/68410
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CABLENOTICIAS" tvg-logo="http://www.iptbest.xyz/logo/Cable_Noticias.png" group-title="Colombia",COLOMBIA - CABLENOTICIAS
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92756
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL CAPITAL " tvg-logo="http://www.iptbest.xyz/logo/Canal_Capital_Colombia.png" group-title="Colombia",COLOMBIA - CANAL CAPITAL 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92720
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL CONGRESO " tvg-logo="http://www.iptbest.xyz/logo/Canal_Congreso_Colombia.png" group-title="Colombia",COLOMBIA - CANAL CONGRESO 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92719
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL INSTITUCIONAL" tvg-logo="http://iptbest.xyz/logo/Canal_Institucional.png" group-title="Colombia",COLOMBIA - CANAL INSTITUCIONAL
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22962
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL TRO " tvg-logo="http://iptbest.xyz/logo/Canal_Tro.png" group-title="Colombia",COLOMBIA - CANAL TRO 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/36562
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL UNO " tvg-logo="http://www.iptbest.xyz/logo/Canal1-Colombia.png" group-title="Colombia",COLOMBIA - CANAL UNO 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/91511
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COLOMBIA - CARACOL FHD" tvg-logo="http://iptbest.xyz:8000/images/0e1a8b7611b24623cfe0e96c153c67e3.png" group-title="Colombia",COLOMBIA - CARACOL FHD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22429
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COLOMBIA - CARACOL HD" tvg-logo="http://iptbest.xyz/logo/Caracol-Colombia.png" group-title="Colombia",COLOMBIA - CARACOL HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22428
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CARACOL INTERNACIONAL HD" tvg-logo="http://iptbest.xyz/logo/Caracol-Internacional-Colombia.png" group-title="Colombia",COLOMBIA - CARACOL INTERNACIONAL HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92847
+#EXTINF:-1 tvg-id="CityTV.co" tvg-name="COLOMBIA - CITY TV" tvg-logo="http://iptbest.xyz/logo/CityTV.png" group-title="Colombia",COLOMBIA - CITY TV
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22431
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - EPOCA " tvg-logo="http://www.iptbest.xyz/logo/Epoca.png" group-title="Colombia",COLOMBIA - EPOCA 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92760
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - NTN 24 HD" tvg-logo="http://iptbest.xyz/logo/NTN24.png" group-title="Colombia",COLOMBIA - NTN 24 HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/31324
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - NUESTRA TELE HD" tvg-logo="http://www.iptbest.xyz/logo/nuestratele.png" group-title="Colombia",COLOMBIA - NUESTRA TELE HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92850
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - PASIONES HD" tvg-logo="http://iptbest.xyz/logo/Pasiones.png" group-title="Colombia",COLOMBIA - PASIONES HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/34616
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COLOMBIA - RCN" tvg-logo="http://iptbest.xyz:8000/images/202e7298b891dfb477669d988a0f6a19.png" group-title="Colombia",COLOMBIA - RCN
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22434
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COLOMBIA - RCN HD" tvg-logo="http://www.iptbest.xyz/logo/RCN.png" group-title="Colombia",COLOMBIA - RCN HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22433
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - RCN MAS HD" tvg-logo="http://www.iptbest.xyz/logo/RCN-Mas.png" group-title="Colombia",COLOMBIA - RCN MAS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92455
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COLOMBIA - RCN NOVELAS HD" tvg-logo="http://www.iptbest.xyz/logo/RCN-Novelas.png" group-title="Colombia",COLOMBIA - RCN NOVELAS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/34567
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - SEÑAL COLOMBIA HD" tvg-logo="http://www.iptbest.xyz/logo/Senal-Colombia.png" group-title="Colombia",COLOMBIA - SEÑAL COLOMBIA HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/10703
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COLOMBIA - TELEANTIOQUIA" tvg-logo="http://www.iptbest.xyz/logo/Teleantioquia1.png" group-title="Colombia",COLOMBIA - TELEANTIOQUIA
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22438
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="COLOMBIA - TELECAFE " tvg-logo="http://www.iptbest.xyz/logo/Telecafe.png" group-title="Colombia",COLOMBIA - TELECAFE 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/17264
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="COLOMBIA - TELECARIBE" tvg-logo="http://www.iptbest.xyz/logo/Telecaribe.png" group-title="Colombia",COLOMBIA - TELECARIBE
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22439
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - TELEISLAS " tvg-logo="http://iptbest.xyz/logo/Teleislas.png" group-title="Colombia",COLOMBIA - TELEISLAS 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/68412
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - TELEMEDELLIN HD" tvg-logo="http://iptbest.xyz/logo/TeleMedellin.png" group-title="Colombia",COLOMBIA - TELEMEDELLIN HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/34615
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="COLOMBIA - TELEPACIFICO" tvg-logo="http://www.iptbest.xyz/logo/Telepacífico.png" group-title="Colombia",COLOMBIA - TELEPACIFICO
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22440
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="COLOMBIA - TRECE" tvg-logo="http://www.iptbest.xyz/logo/Trece-Colombia.png" group-title="Colombia",COLOMBIA - TRECE
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/22441
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="COLOMBIA - WIN SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-HD.png" group-title="Colombia",COLOMBIA - WIN SPORTS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/34697
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - WIN SPORTS MAS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png" group-title="Colombia",COLOMBIA - WIN SPORTS MAS HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/70672
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - ZOOM " tvg-logo="http://www.iptbest.xyz/logo/Zoom_Colombia.png" group-title="Colombia",COLOMBIA - ZOOM 
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92734
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COLOMBIA - RCN NOVELAS" tvg-logo="http://www.iptbest.xyz/logo/RCN-Novelas.png" group-title="Colombia",COLOMBIA - RCN NOVELAS
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92730
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL UNO HD" tvg-logo="http://www.iptbest.xyz/logo/Canal1-Colombia.png" group-title="Colombia",COLOMBIA - CANAL UNO HD
+http://tv.soccerplus.link:8000/poncejurado/jairo1988/92566
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL INSTITUCIONAL HD" tvg-logo="http://iptbest.xyz/logo/Canal_Institucional.png" group-title="Colombia",COLOMBIA - CANAL INSTITUCIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS DEPORTIVOS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="DEPORTE",EVENTOS DEPORTIVOS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World " tvg-logo="" group-title="DEPORTE",Discovery World 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png" group-title="DEPORTE",DEPORTE 3
+http://redima.pro:8880/live/FLOFICO/FLOFICO/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE",HBO POP
+http://redima.pro:8880/live/FLOFICO/FLOFICO/333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE",HBO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CINE",HBO 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CINE",HBO FAMILY
+http://redima.pro:8880/live/FLOFICO/FLOFICO/336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CINE",HBO HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CINE",PARAMOUNT
+http://redima.pro:8880/live/FLOFICO/FLOFICO/338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDE 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es" group-title="CINE",GOLDE 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="KIDS",DISNEY CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://semillitas.com/wp-content/uploads/2021/06/LogoSemillitas.png" group-title="CINE",SEMILLITAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CINE",STAR CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="CINE",AZ click HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" group-title="CINE",UNIVERSAL CINEMA HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logotipo_de_Venevisi%C3%B3n.svg" group-title="CINE",VENEVISION
+http://redima.pro:8880/live/FLOFICO/FLOFICO/355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE",SONY
+http://redima.pro:8880/live/FLOFICO/FLOFICO/356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" group-title="CINE",A&E
+http://redima.pro:8880/live/FLOFICO/FLOFICO/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="CINE",RCN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="CINE",STAR LIFE
+http://redima.pro:8880/live/FLOFICO/FLOFICO/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="" group-title="CINE",WARNER CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT SERIES
+http://redima.pro:8880/live/FLOFICO/FLOFICO/363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CINE",TNT
+http://redima.pro:8880/live/FLOFICO/FLOFICO/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",FXM
+http://redima.pro:8880/live/FLOFICO/FLOFICO/366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",FXM
+http://redima.pro:8880/live/FLOFICO/FLOFICO/367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MORVIDO TV" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg" group-title="CINE",MORVIDO TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINE",GOLDEN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINE",GOLDEN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE",GOLDEN EDGE
+http://redima.pro:8880/live/FLOFICO/FLOFICO/374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png" group-title="CINE",Europa HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DPELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png" group-title="CINE",DPELICULAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE" tvg-logo="data:image/png;base64,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" group-title="CINE",LA TELE
+http://redima.pro:8880/live/FLOFICO/FLOFICO/377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Entertairment HD" tvg-logo="https://png.pngtree.com/png-clipart/20230812/original/pngtree-the-word-entertainment-show-card-picture-image_7880383.png" group-title="CINE",Entertairment HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE",MULTIPREMIER
+http://redima.pro:8880/live/FLOFICO/FLOFICO/379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="CINE",MULTIPREMIER
+http://redima.pro:8880/live/FLOFICO/FLOFICO/380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINE" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png" group-title="CINE",MULTICINE
+http://redima.pro:8880/live/FLOFICO/FLOFICO/381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png" group-title="CINE",AMC
+http://redima.pro:8880/live/FLOFICO/FLOFICO/384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="CINE",CINEMAX
+http://redima.pro:8880/live/FLOFICO/FLOFICO/385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE",HBO2 HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="KIDS",││KIDS HD││INFANTIL BABY TV HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png" group-title="KIDS",BABY TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="KIDS",DISCOVERY SCIENCE 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="KIDS",││KIDS││ NICK JR HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png" group-title="KIDS",DISCOVERY KIDS HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1920px-TeenNick_2019_logo.svg.png" group-title="KIDS",TeenNick
+http://redima.pro:8880/live/FLOFICO/FLOFICO/395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="https://image.pngaaa.com/717/632717-middle.png" group-title="VARIOS",HOLA TV HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1920px-Cartoonito_-_Logo_2021.svg.png" group-title="KIDS",CARTOONITO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KIDS",DISCOVERY KIDS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="KIDS",DISCOVERY KIDS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="VARIOS",PASIONES
+http://redima.pro:8880/live/FLOFICO/FLOFICO/401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="VARIOS",PASIONES
+http://redima.pro:8880/live/FLOFICO/FLOFICO/402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="VARIOS",TELENOVELAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="VARIOS",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="VARIOS",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="VARIOS",TELEMUNDO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="VARIOS",TELEMUNDO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w" group-title="VARIOS",E!
+http://redima.pro:8880/live/FLOFICO/FLOFICO/409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="VARIOS",HISTORY CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ H2" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="VARIOS",││CULT HD││ H2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="VARIOS",HISTORY 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELA HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="VARIOS",RCN NOVELA HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="VARIOS",TLNOVELAS
+http://redima.pro:8880/live/FLOFICO/FLOFICO/415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="VARIOS",ANTENA 3
+http://redima.pro:8880/live/FLOFICO/FLOFICO/418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="VARIOS",CNN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png" group-title="VARIOS",CARACOL INTERNACIONAL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIOS",DISCOVERY ID
+http://redima.pro:8880/live/FLOFICO/FLOFICO/424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="VARIOS",DISCOVERY ID
+http://redima.pro:8880/live/FLOFICO/FLOFICO/425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="VARIOS",DISCOVERY CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="VARIOS",DISCOVERY CHANNEL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV AGRO" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="VARIOS",TV AGRO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="VARIOS",ANIMAL PLANET
+http://redima.pro:8880/live/FLOFICO/FLOFICO/430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="VARIOS",ANIMAL PLANET
+http://redima.pro:8880/live/FLOFICO/FLOFICO/431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/live/FLOFICO/FLOFICO/434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H&H DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIOS",H&H DISCOVERY
+http://redima.pro:8880/live/FLOFICO/FLOFICO/435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="VARIOS",DISCOVERY WORLD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="VARIOS",NAT GEO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="VARIOS",NAT GEO
+http://redima.pro:8880/live/FLOFICO/FLOFICO/439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUMBA TV" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png" group-title="VARIOS",RUMBA TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUMBA TV" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png" group-title="VARIOS",RUMBA TV
+http://redima.pro:8880/live/FLOFICO/FLOFICO/441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA 11" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="VARIOS",TELESISTEMA 11
+http://redima.pro:8880/live/FLOFICO/FLOFICO/442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="VARIOS",RT
+http://redima.pro:8880/live/FLOFICO/FLOFICO/443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg" group-title="CINE",UNIVERSAL CINEMA HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="VARIOS",TELESUR
+http://redima.pro:8880/live/FLOFICO/FLOFICO/446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="VARIOS",DISTRITO COMEDIA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="CINE",Star TVE HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" group-title="CINE",UNIVERSAL CRIME HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" group-title="CINE",Studio Universal HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT + EC" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png" group-title="DEPORTE",DIRECTV SPORT + EC
+http://redima.pro:8880/live/FLOFICO/FLOFICO/685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png" group-title="CINE",MTV HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE",GOL TV ECU
+http://redima.pro:8880/live/FLOFICO/FLOFICO/569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="DEPORTE",GOL TV 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png" group-title="DEPORTE",ESPN 3
+http://redima.pro:8880/live/FLOFICO/FLOFICO/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="DEPORTE",ESPN 4
+http://redima.pro:8880/live/FLOFICO/FLOFICO/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png" group-title="DEPORTE",DIRECTV SPORTS 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_TURBO_HD_MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="DEPORTE",DISCOVERY_TURBO_HD_MX
+http://redima.pro:8880/live/FLOFICO/FLOFICO/579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Television Publica" tvg-logo="https://imgpile.com/images/bxO0vg.md.png" group-title="DEPORTE",Television Publica
+http://redima.pro:8880/live/FLOFICO/FLOFICO/578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png" group-title="DEPORTE",DIRECTV SPORT
+http://redima.pro:8880/live/FLOFICO/FLOFICO/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT " tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="DEPORTE",TNT SPORT 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN
+http://redima.pro:8880/live/FLOFICO/FLOFICO/317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png" group-title="DEPORTE",ESPN 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DEL FUTBOL" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" group-title="DEPORTE",CANAL DEL FUTBOL
+http://redima.pro:8880/live/FLOFICO/FLOFICO/311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="DEPORTE",ESPN 5
+http://redima.pro:8880/live/FLOFICO/FLOFICO/326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" group-title="DEPORTE",ESPN 7
+http://redima.pro:8880/live/FLOFICO/FLOFICO/327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png" group-title="DEPORTE",ESPN 2
+http://redima.pro:8880/live/FLOFICO/FLOFICO/328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTE",ESPN6
+http://redima.pro:8880/live/FLOFICO/FLOFICO/329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="DEPORTE",ESPN 6
+http://redima.pro:8880/live/FLOFICO/FLOFICO/330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="VARIOS",MTV HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="VARIOS",Film & arts HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/255208/large_universalreality.png" group-title="CINE",UNIVERSAL REALITY
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s" group-title="CINE",UNIVERSAL COMEDY 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="VARIOS",Comedy Central HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTE",ESPN HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png" group-title="DEPORTE",ESPN7
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 - ESA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Canal_10_%28El_Salvador%29_2019.png/320px-Canal_10_%28El_Salvador%29_2019.png" group-title="CINE",Canal 10 - ESA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD EXTRA" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="DEPORTE",LA 1 HD EXTRA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NT HD" tvg-logo="https://4.bp.blogspot.com/-ooVCWd-F68M/U0btGor7uMI/AAAAAAAAKIQ/HD9bKqP8UBU/s1600/CartoonHD-Check-it.jpg" group-title="CINE",CARTOON NT HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 HD - ESA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="CINE",Canal 10 HD - ESA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 HD ESA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="CINE",Canal 4 HD ESA
+http://redima.pro:8880/live/FLOFICO/FLOFICO/989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png" group-title="VARIOS",Canal Claro HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" group-title="DEPORTE",Claro Sports 1 HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_6/large.gallery_1157_6_8916.png.1deb9faa7044f40e4370531dc92d7376.png" group-title="CINE",HBO Family HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png" group-title="VARIOS",Telemundo HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="CINE",UNIVERSAL PREMIERE 
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="CINE",HBO Plus HD
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TD+2 HD CR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTE",TD+2 HD CR
+http://redima.pro:8880/live/FLOFICO/FLOFICO/1026.m3u8
